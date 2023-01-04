@@ -48,7 +48,7 @@ The bug's description must have the following structure:
 
 </br>
 <h2><b>🌲 Environment</b></h2>
-If your ticket management produc have an "Environment" placeholder, QA should write down the following information:
+If your ticket management product have an "Environment" placeholder, QA should write down the following information:
 <li>Device</li>
 <li>Operating System (OS)</li>
 <li>Firmware</li>
