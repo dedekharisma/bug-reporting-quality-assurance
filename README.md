@@ -1,6 +1,8 @@
 <h1><b>Bug Reporting Software Quality Assurance</b></h1>
 
-Finding a bug is one thing, but documenting it is just as important, if not more so. That’s why we want to share with you how to write the ideal bug report. Good bug reporting is needed to help the developer easier to understand our bugs report, so that will make our work quick and save much time for both Dev and QA.
+> 🔍 Finding a bug is one thing, but documenting it is just as important.
+
+Good bug reporting is needed to help the developer easier to understand our bugs report, so that will make our work quick and save much time for both Engineer and QA.
 
 
 <h2><b>Preparations</b></h2>
