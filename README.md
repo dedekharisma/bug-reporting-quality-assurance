@@ -4,6 +4,7 @@
 
 Good bug reporting is needed to help the developer easier to understand our bugs report, so that will make our work quick and save much time for both Engineer and QA.
 
+</br>
 
 <h2><b>🍳 Preparations</b></h2>
 <li>Collect all required data</li>
